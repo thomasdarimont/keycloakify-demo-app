@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/keycloakify-demo-app/static/css/main.b8e1bcc5.chunk.css",
+    "main.js": "/keycloakify-demo-app/static/js/main.886d1845.chunk.js",
+    "main.js.map": "/keycloakify-demo-app/static/js/main.886d1845.chunk.js.map",
+    "runtime-main.js": "/keycloakify-demo-app/static/js/runtime-main.5033c6a6.js",
+    "runtime-main.js.map": "/keycloakify-demo-app/static/js/runtime-main.5033c6a6.js.map",
+    "static/js/2.687febdf.chunk.js": "/keycloakify-demo-app/static/js/2.687febdf.chunk.js",
+    "static/js/2.687febdf.chunk.js.map": "/keycloakify-demo-app/static/js/2.687febdf.chunk.js.map",
+    "static/js/3.a3e97ef7.chunk.js": "/keycloakify-demo-app/static/js/3.a3e97ef7.chunk.js",
+    "static/js/3.a3e97ef7.chunk.js.map": "/keycloakify-demo-app/static/js/3.a3e97ef7.chunk.js.map",
+    "index.html": "/keycloakify-demo-app/index.html",
+    "static/css/main.b8e1bcc5.chunk.css.map": "/keycloakify-demo-app/static/css/main.b8e1bcc5.chunk.css.map",
+    "static/js/2.687febdf.chunk.js.LICENSE.txt": "/keycloakify-demo-app/static/js/2.687febdf.chunk.js.LICENSE.txt",
+    "static/media/index.scss": "/keycloakify-demo-app/static/media/logo.6ce24c58.svg",
+    "static/media/tos_en.c09b3947.md": "/keycloakify-demo-app/static/media/tos_en.c09b3947.md",
+    "static/media/tos_fr.e2782512.md": "/keycloakify-demo-app/static/media/tos_fr.e2782512.md"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5033c6a6.js",
+    "static/js/2.687febdf.chunk.js",
+    "static/css/main.b8e1bcc5.chunk.css",
+    "static/js/main.886d1845.chunk.js"
+  ]
+}
